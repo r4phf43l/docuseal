@@ -2,9 +2,9 @@
 /*
  -------------------------------------------------------------------------
  DocuSeal plugin for GLPI
- Copyright (C) 2021 by the DocuSeal Development Team.
+ Copyright (C) 2024 by the DocuSeal Development Team.
 
- https://github.com/pluginsGLPI/docuseal
+ https://github.com/r4phf43l/docuseal-glpi
  -------------------------------------------------------------------------
 
  LICENSE
@@ -86,7 +86,7 @@ function plugin_version_docuseal() {
       'version'        => PLUGIN_DOCUSEAL_VERSION,
       'author'         => '<a href="https://rafaantonio.com.br">Rafael Antonio</a>',
       'license'        => 'GPLv3+',
-      'homepage'       => 'https://https://rafaantonio.com.br',
+      'homepage'       => 'https://rafaantonio.com.br',
       'requirements'   => [
          'glpi' => [
             'min' => '10.0',
