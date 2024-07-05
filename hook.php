@@ -2,9 +2,9 @@
 /*
  -------------------------------------------------------------------------
  DocuSeal plugin for GLPI
- Copyright (C) 2021 by the DocuSeal Development Team.
+ Copyright (C) 2024 by the DocuSeal Development Team.
 
- https://github.com/pluginsGLPI/docuseal
+ https://github.com/r4phf43l/docuseal-glpi
  -------------------------------------------------------------------------
 
  LICENSE
