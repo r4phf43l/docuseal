@@ -32,6 +32,10 @@ After you update locales and maked translations, build translations
 vendor/bin/robo compile_locales
 ```
 
+## Thanks
+
+* Based on the work carried out by the LibreSign-GLPI: https://github.com/LibreSign/libresign-glpi
+
 ## Contributing
 
 * Open a ticket for each bug/feature so it can be discussed
