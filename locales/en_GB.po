@@ -1,0 +1,115 @@
+# English translations for docuseal-glpi package.
+# Copyright (C) 2024 THE docuseal-glpi'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the docuseal-glpi package.
+# Automatically generated, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: docuseal-glpi 0.0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/r4phf43l/docuseal-glpi/issues\n"
+"POT-Creation-Date: 2024-06-04 18:46+0300\n"
+"PO-Revision-Date: 2024-06-04 18:46+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hook.php:75
+msgid "Accept"
+msgstr ""
+
+#: hook.php:76
+msgid "Validate GLPI Ticket"
+msgstr ""
+
+#: hook.php:77
+msgid "Digitally signed on DocuSeal"
+msgstr ""
+
+#: inc/config.class.php:30
+msgid "Invalid settings"
+msgstr ""
+
+#: inc/config.class.php:75
+msgid "Docuseal"
+msgstr ""
+
+#: inc/config.class.php:88
+msgid "URL of the API"
+msgstr ""
+
+#: inc/config.class.php:93
+msgid "Template ID that will be used"
+msgstr ""
+
+#: inc/config.class.php:98
+msgid "Password"
+msgstr ""
+
+#: inc/config.class.php:103
+msgid "Default display name field"
+msgstr ""
+
+#: inc/config.class.php:108
+msgid "Default filename to sign"
+msgstr ""
+
+#: inc/config.class.php:113
+msgid "Comment sent to the signer of a document"
+msgstr ""
+
+#: inc/config.class.php:118
+msgid "Comment used when a document is signed"
+msgstr ""
+
+#: inc/config.class.php:123
+msgid "User ID that will be used to attach the signed file to the ticket"
+msgstr ""
+
+#: inc/hook.class.php:18 inc/hook.class.php:77
+msgid "No signer found"
+msgstr ""
+
+#: inc/hook.class.php:42
+#, php-format
+msgid "Failure on send update sign in DocuSeal. Error: %s."
+msgstr ""
+
+#: inc/hook.class.php:88
+#, php-format
+msgid "Failure on send delete sign in DocuSeal. Error: %s."
+msgstr ""
+
+#: inc/hook.class.php:211
+#, php-format
+msgid ""
+"File already signed by %s, impossible to add another subscriber. Delete all "
+"signers, the signed file and request new signatures."
+msgstr ""
+
+#: inc/hook.class.php:217
+#, php-format
+msgid "Signature already requested for %s"
+msgstr ""
+
+#: inc/hook.class.php:237
+#, php-format
+msgid "Failure on send file to sign in DocuSeal. Error: %s."
+msgstr ""
+
+#: inc/hook.class.php:252
+#, php-format
+msgid ""
+"The selected user (%s) has no valid email address. The request has not been "
+"created."
+msgstr ""
+
+#: inc/hook.class.php:264
+#, php-format
+msgid ""
+"The selected user (%s) has no valid %s. The request has not been created, "
+"without %s."
+msgstr ""
