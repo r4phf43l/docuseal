@@ -10,7 +10,7 @@ use Symfony\Component\Finder\Finder;
 class RoboFile extends \Robo\Tasks {
 
    protected $name = "docuseal";
-   protected $issues = "https://github.com/docuseal/docuseal-glpi/issues";
+   protected $issues = "https://github.com/r4phf43l/docuseal-glpi/issues";
    protected $locale_keywords = "t_docuseal";
 
    protected function getLocaleFiles() {
